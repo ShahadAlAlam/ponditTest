@@ -45,7 +45,7 @@ public class Student {
         this.deptId = deptId;
     }
 
-    @Override
+//    @Override
     public String toString() {
         return "Student{" +
                 "id=" + id +
