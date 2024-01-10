@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d3e00e8-9512-4199-9cb3-b66730338a84" name="Changes" comment="leetcode 124">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PathSum112.java" afterDir="false" />
+    <list default="true" id="3d3e00e8-9512-4199-9cb3-b66730338a84" name="Changes" comment="Path Sum 112 done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TwoSum1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AbstractClassTestChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractClassTestChild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PathSum112.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PathSum112.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/Courses Flutter DIRT NODE JS/Pondit JAVA/TestProjects/ponditTest/class3",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -49,22 +52,9 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PathSum112">
+  <component name="RunManager" selected="Application.TwoSum1">
     <configuration name="BalancedBinaryTree110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.BalancedBinaryTree110" />
-      <module name="class3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumPathSum124" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.MaximumPathSum124" />
       <module name="class3" />
       <extension name="coverage">
         <pattern>
@@ -115,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.TwoSum1" />
+      <module name="class3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoSum1" />
         <item itemvalue="Application.PathSum112" />
         <item itemvalue="Application.MinimumDepthofBinaryTree111" />
         <item itemvalue="Application.BalancedBinaryTree110" />
         <item itemvalue="Application.PascalSTriangle118" />
-        <item itemvalue="Application.MaximumPathSum124" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +139,9 @@
       <workItem from="1704219369790" duration="697000" />
       <workItem from="1704378254688" duration="5400000" />
       <workItem from="1704440581129" duration="8212000" />
-      <workItem from="1704523707449" duration="29527000" />
+      <workItem from="1704523707449" duration="30832000" />
+      <workItem from="1704816674388" duration="1590000" />
+      <workItem from="1704903029606" duration="2181000" />
     </task>
     <task id="LOCAL-00001" summary="@override annotation test">
       <created>1704219461945</created>
@@ -180,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704630924967</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Path Sum 112 done">
+      <created>1704635272661</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704635272661</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +214,8 @@
     <MESSAGE value="leetcode 121 122" />
     <MESSAGE value="leetcode 123" />
     <MESSAGE value="leetcode 124" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode 124" />
+    <MESSAGE value="Path Sum 112 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Path Sum 112 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -214,12 +227,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/PathSum112.java</url>
-          <line>31</line>
+          <line>44</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/PathSum112.java</url>
-          <line>28</line>
+          <line>41</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>

@@ -9,5 +9,10 @@ public abstract class AbstractClassTest {
         this.no=no;
     }
 
+    AbstractClassTest(){}
+
     public abstract void printString();
+    public static void printStringBody(){
+        System.out.println("class with body");
+    };
 }
