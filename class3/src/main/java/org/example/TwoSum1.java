@@ -7,8 +7,7 @@ public class TwoSum1 {
     public static int[] twoSum(int[] nums, int target) {
 
         int[] result = new int[2];
-//        int[] newNums;// = new int[nums.length];
-//        newNums = Arrays.stream(nums).filter(e -> e <= target).toArray();
+      //solved by this code
         for (int i = 0; i < nums.length; i++) {
             for (int j = i + 1; j < nums.length; j++) {
                 if (nums[i] + nums[j] == target) {
@@ -18,6 +17,8 @@ public class TwoSum1 {
                 }
             }
         }
+
+
         return result;
     }
 
