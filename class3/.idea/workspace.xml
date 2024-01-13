@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d3e00e8-9512-4199-9cb3-b66730338a84" name="Changes" comment="TwoNumbers2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LongestSubstringWithoutRepeatingCharacters3.java" afterDir="false" />
+    <list default="true" id="3d3e00e8-9512-4199-9cb3-b66730338a84" name="Changes" comment="lengthOfLongestSubstring3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../class8" beforeDir="false" afterPath="$PROJECT_DIR$/../class8" afterDir="false" />
     </list>
@@ -143,7 +142,7 @@
       <workItem from="1704981862738" duration="1915000" />
       <workItem from="1704994423820" duration="690000" />
       <workItem from="1705068261319" duration="2446000" />
-      <workItem from="1705124364697" duration="6652000" />
+      <workItem from="1705124364697" duration="6725000" />
     </task>
     <task id="LOCAL-00001" summary="@override annotation test">
       <created>1704219461945</created>
@@ -215,7 +214,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705124396507</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="TwoNumbers2">
+      <created>1705133706026</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1705133706026</updated>
+    </task>
+    <task id="LOCAL-00012" summary="lengthOfLongestSubstring3">
+      <created>1705133739270</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1705133739270</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,7 +280,8 @@
     <MESSAGE value="Path Sum 112 done" />
     <MESSAGE value="TwoSum 1" />
     <MESSAGE value="TwoNumbers2" />
-    <option name="LAST_COMMIT_MESSAGE" value="TwoNumbers2" />
+    <MESSAGE value="lengthOfLongestSubstring3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lengthOfLongestSubstring3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
