@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d3e00e8-9512-4199-9cb3-b66730338a84" name="Changes" comment="lengthOfLongestSubstring3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MedianofTwoSortedArrays4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MergeStringsAlternately1768.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../class8" beforeDir="false" afterPath="$PROJECT_DIR$/../class8" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +54,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestSubstringWithoutRepeatingCharacters3">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AddTwoNumbers2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.AddTwoNumbers2" />
       <module name="class3" />
@@ -76,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumDepthofBinaryTree111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.MinimumDepthofBinaryTree111" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="class3" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathSum112" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.PathSum112" />
+    <configuration name="MedianofTwoSortedArrays4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.MedianofTwoSortedArrays4" />
       <module name="class3" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TwoSum1" />
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.StringTest" />
       <module name="class3" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.StringTest" />
+        <item itemvalue="Application.MedianofTwoSortedArrays4" />
         <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters3" />
         <item itemvalue="Application.AddTwoNumbers2" />
-        <item itemvalue="Application.TwoSum1" />
-        <item itemvalue="Application.PathSum112" />
-        <item itemvalue="Application.MinimumDepthofBinaryTree111" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +147,9 @@
       <workItem from="1704981862738" duration="1915000" />
       <workItem from="1704994423820" duration="690000" />
       <workItem from="1705068261319" duration="2446000" />
-      <workItem from="1705124364697" duration="6725000" />
+      <workItem from="1705124364697" duration="11282000" />
+      <workItem from="1705681937543" duration="5933000" />
+      <workItem from="1705729993068" duration="3507000" />
     </task>
     <task id="LOCAL-00001" summary="@override annotation test">
       <created>1704219461945</created>
@@ -228,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705133739270</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lengthOfLongestSubstring3">
+      <created>1705133778458</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1705133778458</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,15 +335,32 @@
           <line>46</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/MedianofTwoSortedArrays4.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/MedianofTwoSortedArrays4.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="i" />
-        <watch expression="j" />
-        <watch expression="s.charAt(i)" />
-        <watch expression="lastSeen[s.charAt(i)]" />
+        <watch expression="n &amp; 1" language="JAVA" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/class3$Main.ic" NAME="Main Coverage Results" MODIFIED="1705683281531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
   </component>
 </project>
